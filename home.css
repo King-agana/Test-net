@@ -165,7 +165,7 @@ background-color: red;
 .mains{
     display: grid;
      grid-template-columns: repeat(auto-fit, 28rem);
-     gap: 3rem;
+     gap: 5rem;
      align-items: flex-start;
      justify-content: center;
      text-align: center;
@@ -173,6 +173,10 @@ background-color: red;
      margin-top: 50vh;
     
 }
+main{
+   overflow-x: hidden; 
+   } 
+
 
 .htm{
     background: #fff;
@@ -209,13 +213,13 @@ background-color: red;
 
     background-color: blue;
     width: 300px;
-        margin-left: 80px
+        margin-left: 50px
 
 }
 
 .htmm{
 
-    margin-left:80px;
+    margin-left:50px;
     width: 300px;
 
 }
