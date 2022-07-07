@@ -165,7 +165,7 @@ background-color: red;
 .mains{
     display: grid;
      grid-template-columns: repeat(auto-fit, 28rem);
-     gap: 10rem;
+     gap: 5rem;
      align-items: flex-start;
      justify-content: center;
      text-align: center;
@@ -203,7 +203,24 @@ background-color: red;
     margin-top: 50px;
     margin-bottom: 30px;
 }
+@media(max-width:768px){
+    
+    .htm{
 
+
+    width: 250px;
+
+}
+
+.htmm{
+
+    
+    width: 250px;
+
+}
+    
+    
+    }
 footer{
     display: flex;
     justify-content: center;
