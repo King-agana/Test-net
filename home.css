@@ -165,7 +165,7 @@ background-color: red;
 .mains{
     display: grid;
      grid-template-columns: repeat(auto-fit, 28rem);
-     gap: 5rem;
+     gap: 3rem;
      align-items: flex-start;
      justify-content: center;
      text-align: center;
@@ -207,15 +207,16 @@ background-color: red;
     
     .htm{
 
-
-    width: 250px;
+    background-color: blue;
+    width: 350px;
+        margin-left: 80px
 
 }
 
 .htmm{
 
-    
-    width: 250px;
+    margin-left:80px
+    width: 350px;
 
 }
     
