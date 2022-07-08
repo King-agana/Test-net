@@ -209,9 +209,6 @@ main{
     margin-bottom: 30px;
 }
 @media(max-width:768px){
-    main{
-  margin-left: 5px;
-    }
     .htm{
 
     background-color: blue;
@@ -230,6 +227,12 @@ main{
     
     
     }
+  @media(max-width:767px){
+    main{
+    margin-left: 5px;
+    }
+
+   }
 footer{
     display: flex;
     justify-content: center;
