@@ -210,12 +210,12 @@ main{
 }
 @media(max-width:768px){
     main{
-  margin-left: 10px;
+  margin-left: 5px;
     }
     .htm{
 
     background-color: blue;
-    width: 250px;
+    width: 270px;
     margin-left: 9rem;
     margin-right: 9rem;
 
@@ -224,7 +224,7 @@ main{
 .htmm{
     margin-right: 9rem;
     margin-left:9rem;
-    width: 200px;
+    width: 290px;
 
 }
     
