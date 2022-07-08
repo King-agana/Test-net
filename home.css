@@ -212,15 +212,16 @@ main{
     .htm{
 
     background-color: blue;
-    width: 500px;
+    width: 300px;
     margin-left: 6rem;
+    margin-right: 1rem;
 
 }
 
 .htmm{
-
+    margin-right: 1rem;
     margin-left:8rem;
-    width: 500px;
+    width: 300px;
 
 }
     
