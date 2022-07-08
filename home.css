@@ -212,7 +212,7 @@ main{
     .htm{
 
     background-color: blue;
-    width: 270px;
+    width: 277px;
     margin-left: 9rem;
     margin-right: 9rem;
 
@@ -227,7 +227,7 @@ main{
     
     
     }
-  @media(max-width:767px){
+  @media(max-width:867px){
     main{
     margin-left: 5px;
     }
