@@ -98,7 +98,7 @@ header .math{
     text-decoration: none;
 }
 main{
-  margin-left: 30px;
+  margin-left: 40px;
 }
 @media(max-width:768px){
     main{
@@ -209,7 +209,9 @@ main{
     margin-bottom: 30px;
 }
 @media(max-width:768px){
-    
+    main{
+  margin-left: 10px;
+    }
     .htm{
 
     background-color: blue;
