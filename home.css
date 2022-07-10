@@ -170,7 +170,7 @@ background-color: red;
      justify-content: center;
      text-align: center;
      flex-direction: column;
-     margin-top: 50vh;
+     margin-top: 5vh;
      margin-right: 3rem;
     
 }
@@ -221,7 +221,7 @@ main{
 .htmm{
     margin-right: 9rem;
     margin-left:9rem;
-    width: 290px;
+    width: 280px;
 
 }
     
